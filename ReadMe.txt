@@ -1,4 +1,6 @@
-Migrated data from Excel to MS SQL using C#, WPF, MVVM removing 100% of duplicate records and reducing data redundancy. Created flow chart algorithm and user interface resulting in reduction of hundreds of outstanding items.
+Migrated data from Excel to MS SQL using C#, WPF, MVVM removing 100% of duplicate records and reducing data redundancy. 
+
+Created flow chart algorithm and user interface resulting in reduction of hundreds of outstanding items.
 
 Visual C# read from excel store in Ms sql removing duplicates (C# Window Application)
 Tools: Visual studio 2019, MySql database, Microsoft Excel 16.0 Object Library, 
